@@ -7,7 +7,7 @@
 // See Includes...
 // Modified by Jordan Hochenbaum
 
-#include "DallasTemperature.h"
+#include "tmpDS18B20.h"
 
 #if ARDUINO >= 100
     #include "Arduino.h"   
